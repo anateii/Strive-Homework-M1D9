@@ -33,3 +33,16 @@ body {
     border-radius: 10px;
     cursor: pointer;
     }
+
+
+#number-button {
+    margin-left: 10px;
+    width: 92px;
+    height: 54px;
+    color: rgb(32, 32, 32);
+    background-color: #db0092;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 7px;
+    border:rgb(221, 143, 143)
+}
