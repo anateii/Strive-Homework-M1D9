@@ -1,0 +1,9 @@
+body {
+    
+    background-color: bisque;
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
