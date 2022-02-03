@@ -5,7 +5,7 @@ body {
     background-color: bisque;
     color: rgb(0, 0, 0);
     font-family: 'Roboto', sans-serif;
-    width: 1000px;
+    max-width: 768px;;
     margin: 0 auto;
     text-align: center;
 }
@@ -15,11 +15,17 @@ body {
 }
 
 .number {
-    border-color: rgb(0, 0, 0);
-    border-width: 2px;
-    border-style: solid;
+    
     display: inline-block;
-    width: 100px;
-    line-height: 100px;
+    background-color: rgb(26, 26, 26);
+    width: 97px;
+    height: 97px;
+    text-align: center;
+    line-height: 97px;
+    font-size: large;
+    border-color: rgb(60, 60, 60);
+    border-style: solid;
+    border-width: 2px;
+    margin: 2px;
     border-radius: 10px;
     }
